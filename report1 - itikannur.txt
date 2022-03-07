@@ -1,0 +1,20 @@
+Description : Server Misconfiguration.
+	The folders in the directories listed are publicly accesssible.
+
+Domain Name : http://itikannur.kerala.gov.in/content/
+
+Steps to reproduce :
+	a) Open the browser and search 'index of gov.in' 
+	b) Open the first link as shown in thw POCs
+	c) The images in the images are public accessible.
+Proof of concept : screenshots attached below.
+
+Counter measures : 
+	Here are some ways that small and medium-sized businesses can prevent security configuration vulnerabilities: Update passwords regularly and use multi-factor authentication. Run security checks on third-party platforms. 
+
+Impact : 
+	According to a report by IBM, the number of security misconfigurations has skyrocketed over the past few years. The report found that breaches related to security misconfiguration jumped by 424%, accounting for nearly 70% of compromised records during the year.While companies are integrating better security practices and investing in cybersecurity, attackers are conducting more sophisticated attacks that are difficult to trace and mitigate quickly.Human error is also becoming a more prominent security issue in various enterprises. These human errors lead to an array of security flaws including security misconfigurations, phishing attacks, malware, ransomware, insider threats, and many others.Security misconfigurations can stem from simple oversights, but can easily expose your business to attackers. 
+
+References : 
+	1) https://hackerone.com/reports/230648
+	2) https://hackerone.com/reports/12453
